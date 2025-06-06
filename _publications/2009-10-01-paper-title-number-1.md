@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Molecular Origin of High Cation Transference in Mixtures of Poly(pentyl malonate) and Lithium Salt"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'Fang, Chao; Yu, Xiaopeng; Chakraborty, Saheli; Balsara, Nitash P.; Wang, Rui'
+date: 2023-10-1
+venue: 'ACS Macro Letters, 10.1021/acsmacrolett.3c00041, 612–618 ~ 612–618'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: '[https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc01158e](https://pubs.acs.org/doi/10.1021/acsmacrolett.3c00041)'
+#citation: 'Fang, Chao; Halat, David M.; Mistry, Aashutosh; Reimer, Jeffrey A.; Balsara, Nitash P.; Wang, Rui'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
