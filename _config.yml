@@ -26,8 +26,10 @@ author:
   name             : "Chao FANG"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
-  location         : "W4 L6 6055"
-  employer         : "The Hong Kong University of Science\ and Technology (Guangzhou)"
+  location         : "W4 L6 605"
+  employer         : "The Hong Kong University of Science" \
+                      "and Technology (Guangzhou)"
+  
   uri              : # URL
   email            : "chaofang@hkust-gz.edu.cn" 
 
